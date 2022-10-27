@@ -10,3 +10,16 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+nav:
+  - 'index.md'
+  - 'analysis.md'
+  - 'savings.md'
+  - 'borrowing.md'
+  - 'day-to-day.md'
+  - 'pots.md'
+  - 'energy.md'
+  - 'charity.md'
+  - 'tax.md'
+  - 'insurance.md'
+  - 'environmental.md'
+  - 'emergency.md'
