@@ -6,3 +6,7 @@ theme:
 extra:
   generator: false
 copyright: Copyright &copy; John Wheal
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
