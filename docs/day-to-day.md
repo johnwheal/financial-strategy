@@ -1,3 +1,7 @@
 # Day to Day Spending
 
-To be written
+## Purchase Mechanism
+
+## High Level Categories
+
+## Low Level Categories
