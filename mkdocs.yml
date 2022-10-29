@@ -22,8 +22,14 @@ nav:
   - 'pots.md'
   - 'energy.md'
   - 'charity.md'
+  - 'gambling.md'
   - 'tax.md'
   - 'insurance.md'
   - 'environmental.md'
   - 'emergency.md'
 repo_url: https://github.com/johnwheal/financial-strategy
+markdown_extensions:
+  - def_list
+  - footnotes
+  - pymdownx.tasklist:
+      custom_checkbox: true
