@@ -3,6 +3,8 @@ extra_css:
   - stylesheets/extra.css
 theme:
    name: material
+   icon:
+     logo: fontawesome/solid/scale-unbalanced
 extra:
   generator: false
 copyright: Copyright &copy; John Wheal
@@ -24,3 +26,4 @@ nav:
   - 'insurance.md'
   - 'environmental.md'
   - 'emergency.md'
+repo_url: https://github.com/johnwheal/financial-strategy
