@@ -27,7 +27,6 @@ nav:
   - 'insurance.md'
   - 'environmental.md'
   - 'emergency.md'
-repo_url: https://github.com/johnwheal/financial-strategy
 markdown_extensions:
   - def_list
   - footnotes
