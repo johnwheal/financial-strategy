@@ -8,10 +8,6 @@ theme:
 extra:
   generator: false
 copyright: Copyright &copy; John Wheal
-markdown_extensions:
-  - admonition
-  - pymdownx.details
-  - pymdownx.superfences
 nav:
   - 'index.md'
   - 'analysis.md'
@@ -28,6 +24,9 @@ nav:
   - 'environmental.md'
   - 'emergency.md'
 markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
   - def_list
   - footnotes
   - pymdownx.tasklist:
