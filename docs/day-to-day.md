@@ -48,10 +48,11 @@ This is expenditure that is avoided and is pre-planned
 * **Strategic House**: this includes any large one-off house expenses
 * **Personal Development**: this includes any training courses/exams and one-off professional registration fees
 * **Special Hobbies**: this includes any one-off/unusual hobbies[^3]
-* **Charity**: this includes any one-off charity donations
+* **Charity**: this includes any one-off charity donations [^6]
 * **Holiday**: this includes any money spent on a holiday [^3]
 
-[^3]: Transportation costs directly associated with this expense **may** be included under this category  
+[^3]: Transportation or accommodation costs directly associated with this expense **may** be included under this category  
+[^6]: If a charity donation is made in exchange for a product, service or entry it **shall** be categorised according to the original intent of the purchase and not be categorised as a charity donation
 
 ### Savings/Investments
 
