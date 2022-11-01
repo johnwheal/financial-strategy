@@ -14,7 +14,7 @@ Insurance **may** be purchased if there is a genuine belief that it is conceivab
 
 The following **shall** apply once a decision is made to purchase insurance.
 
-Quotes from multiple insurance providers **should** be obtained and the cheapest opiton selected.
+Quotes from multiple insurance providers **should** be obtained and the cheapest option selected.
 
 When the option is available, and providing it is not more expensive, insurance **should** be paid monthly and not annually.
 
