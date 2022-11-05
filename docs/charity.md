@@ -32,6 +32,6 @@ The charity **should** fall into one of the following categories:
 
 ## Gift Aid
 
-Whenever possible, charity donations **shall** be made with Gift Aid.
+Whenever possible, charity donations **shall** be made with Gift Aid [^2].
 
-Further information in [this section](/tax/#gift-aid)
+[^2]: Further information is available in [this section](/tax/#gift-aid)
