@@ -10,18 +10,18 @@ extra:
 copyright: Copyright &copy; John Wheal
 nav:
   - 'index.md'
-  - 'analysis.md'
   - 'savings.md'
   - 'borrowing.md'
   - 'day-to-day.md'
   - 'budgeting.md'
-  - 'energy.md'
+  - 'emergency.md'
   - 'charity.md'
   - 'gambling.md'
   - 'tax.md'
   - 'insurance.md'
   - 'environmental.md'
-  - 'emergency.md'
+  - 'energy.md'
+  - 'analysis.md'
 markdown_extensions:
   - admonition
   - pymdownx.details
