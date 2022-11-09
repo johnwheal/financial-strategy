@@ -26,7 +26,7 @@ When the insurance excess is selectable:
 * A higher excess is preferred but **should** be set on a case-by-case basis
 * Unless free, an excess waiver **should** not be used
 
-[^2]: If applicable, the sum of voluntary and mandatory excess should not exceed this value
+[^2]: If applicable, the sum of voluntary and mandatory excess **should** not exceed this value
 
 ## Travel Insurance
 
