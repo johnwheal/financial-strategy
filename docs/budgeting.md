@@ -1,5 +1,9 @@
 # Budgeting
 
+## Allocating Money
+
+This section needs to be written
+
 ## Temporary Pots
 
 The following temporary pots **shall** be used to aid with budgeting by storing money which has been allocated but not yet used for:

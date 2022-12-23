@@ -2,6 +2,8 @@
 
 ## Purchase Mechanism
 
+This section needs to be written
+
 ## Categorisation of Expenditure
 
 All expenditure **shall** be categorised into one of the following.
