@@ -6,7 +6,7 @@
 
 ## Purpose
 
-The purpose of this strategy is to define a set of financial principles and strategy.
+The purpose of this document is to define a set of financial principles and strategy.
 
 ## Definitions
 

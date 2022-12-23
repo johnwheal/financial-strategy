@@ -13,8 +13,9 @@ The following temporary pots **shall** be used to aid with budgeting by storing 
 * **House**: items which will be categorised as "Strategic House"
 * **Holiday**: items which will be categorised as "House"
 * **Hobbies**: items which will be categorised as "Special hobbies"
-* **Waiting to Transfer**: holding money temporarily prior to it being transferred to another account
+* **Bills**: holding money temporarily prior to a bill being paid[^2]
 * **Hold**: holding money on a short-term basis
+[^2]: This should balance to zero each month
 
 Other pots **should** not be used/created.
 

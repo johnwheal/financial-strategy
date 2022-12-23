@@ -10,9 +10,9 @@ Emergency Savings **shall** be kept in cash.
 
 Emergency Savings **should** receive interest at a competitive rate.
 
-At least 25% of Emergency Savings **shall** be accessible immediately.
+At least 70% of Emergency Savings **shall** be accessible immediately.
 
-All Emergency Savings **shall** be accessible within 5 working days.
+All Emergency Savings **shall** be accessible within six months.
 
 [^3]: I.e. when no emergency expenses have been incurred
 

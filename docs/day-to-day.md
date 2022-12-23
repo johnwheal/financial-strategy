@@ -16,7 +16,7 @@ This is expenditure that cannot be avoided
 * **Mandatory Borrowing Repayments**[^1]: this is borrowing (e.g. loan) repayments that cannot be avoided
 * **Groceries**: this includes food and general consumable household items
 * **Car**: this includes any cost directly associated with owning a car (not using it)
-* **Personal Care**: this includes any medical and personal care expenses
+* **Personal Care**: this includes any general medical and personal care expenses
 * **Legal**: this includes accountancy fees, legal fees, website/email hosting, bank account fees and membership of professional registration bodies
 
 [^1]: If a borrowing repayment is voluntarily made less than 7 days prior to its due date, it **shall** be categorised as Mandatory
@@ -26,7 +26,8 @@ This is expenditure that cannot be avoided
 This is expenditure that can be avoided but is likely to impact quality of life
 
 * **Transport**: this includes train, taxi, petrol and parking expenses
-* **Eating Out**: this includes any food or drink not purchased from a supermarket
+* **Eating Out**: this includes any food or drink not purchased from a supermarket or work
+* **Work Food**: this includes any food or drink purchased at work
 * **Shopping**: this includes general miscellaneous/non-essential purchases
 * **Subscriptions**: this includes any regular reoccurring subscriptions
 * **House**: this includes any non-consumable and non-strategic household items
@@ -43,7 +44,7 @@ This is expenditure that can be avoided but is likely to impact quality of life
 
 ### Long-term/Strategic
 
-This is expenditure that is avoided and is pre-planned
+This is expenditure that can be avoided and is pre-planned
 
 * **Technology**: this includes any technology purchases
 * **Special Borrowing Repayments**[^1]: this incudes any borrowing overpayments
@@ -52,6 +53,7 @@ This is expenditure that is avoided and is pre-planned
 * **Special Hobbies**: this includes any one-off/unusual hobbies[^3]
 * **Charity**: this includes any one-off charity donations [^6]
 * **Holiday**: this includes any money spent on a holiday [^3]
+* **Strategic Medical**: This includes any optional long-term medical items
 
 [^3]: Transportation or accommodation costs directly associated with this expense **may** be included under this category  
 [^6]: If a charity donation is made in exchange for a product, service or entry it **shall** be categorised according to the original intent of the purchase and not be categorised as a charity donation

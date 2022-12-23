@@ -25,7 +25,7 @@ The charity **shall** have a UK registration number.
 The charity **should** fall into one of the following categories:
 
 * Community Development
-* Environmental (advancement of technology only)
+* Environmental
 * Health
 * Human
 * International NGO
